@@ -1,0 +1,18 @@
+/*Temas del segundo periodo*/
+
+.texto{
+
+    font-size: 50 px;
+    padding-top: 140px;
+    text-align: justify;
+    color: azure;
+}
+.principal{
+     display: flex;
+
+}
+body{
+    background-image: url("fondos.jpg");
+    background-repeat: no-repeat;
+
+}
