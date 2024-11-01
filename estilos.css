@@ -39,3 +39,19 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+.imgsoc{
+    height: 900px;
+    width: 1900px;
+    background-image: url("Captura\ de\ pantalla\ 2024-09-29\ 185605.png");
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+.imgtec3{
+    height: 400px;
+    width: 500px;
+    background-image: url("piedra.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
